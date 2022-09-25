@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你应该是一场梦，我应该是一阵风。",
+"note_ch": "答案很长，我准备用一生时间来回答，你准备听了吗？",
 # 金句英文
-"note_en": "You should be a dream, I should be a gust of wind."
+"note_en": "The answer is very long, I am ready to use a lifetime of time to answer, you are ready to listen to it?"
 }
