@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我为你翻山越岭，却无心看风景。",
+"note_ch": "别跟我客气， 早晚都是一个户口本的人。",
 # 金句英文
-"note_en": "I climb mountains for you, but not to see the scenery."
+"note_en": "Don't be polite to me, sooner or later is a person with a hukou book."
 }
