@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "想起你，我这张丑脸就泛起微笑。",
+"note_ch": "余生还长，请多多指教。",
 # 金句英文
-"note_en": "The thought of you brings a smile to my ugly face."
+"note_en": "The rest of my life is long, please give me more advice."
 }
