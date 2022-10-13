@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "余生还长，请多多指教。",
+"note_ch": "真羡慕你身边那些无关紧要的人，那么容易就见到让我朝思暮想的你。",
 # 金句英文
-"note_en": "The rest of my life is long, please give me more advice."
+"note_en": "I really envy those insignificant people around you, so easy to see let me miss you."
 }
