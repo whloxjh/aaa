@@ -15,13 +15,13 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "瓯海区",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "宝宝", "birthday": "2003-11-12"},
+"birthday1": {"name": "baby", "birthday": "2003-11-12"},
 # 生日2
-"birthday2": {"name": "小吴", "birthday": "2003-10-17"},
+"birthday2": {"name": "baby的修勾", "birthday": "2003-10-17"},
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "风会替我见，我想见的那个人。",
+"note_ch": "攒下所有梦见你的瞬间，够不够换见你一面。",
 # 金句英文
-"note_en": "The wind will see the girl I want to see."
+"note_en": "Save all the dream of your moment, enough to see you."
 }
