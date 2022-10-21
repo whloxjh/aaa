@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我们身在浓雾之中，但是我们在彼此的眼里依旧清晰。",
+"note_ch": "愿岁月可回首，且以深情共白头。",
 # 金句英文
-"note_en": "We are in the fog, but we are still clear in each other's eyes."
+"note_en": May the years look back and grow old with deep feeling."
 }
