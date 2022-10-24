@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "晚风轻踩着云朵，月亮在贩售快乐，你从银河背后靠近我，我与星辉一同为你沉沦。",
+"note_ch": "你好我是派大星，上帝派来爱你的那颗星。",
 # 金句英文
-"note_en": "The evening breeze is treading on the clouds, the moon is selling happiness, you are approaching me from behind the Milky Way, I am sinking with the starlight for you."
+"note_en": "Hello, I'm Patrick, the star God sent to love you."
 }
