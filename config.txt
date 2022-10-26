@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你好我是派大星，上帝派来爱你的那颗星。",
+"note_ch": "爱琴海的浪不会停，我对你的爱也是。",
 # 金句英文
-"note_en": "Hello, I'm Patrick, the star God sent to love you."
+"note_en": "The waves of the Aegean Sea will never stop, and neither will my love for you."
 }
