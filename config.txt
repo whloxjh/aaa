@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "入了心的人，见不见面都在思念。",
+"note_ch": "心明明是我的，装的却慢慢是你",
 # 金句英文
-"note_en": "Into the heart of the people, see not to meet are missing."
+"note_en": "The heart is obviously my, but slowly is you."
 }
