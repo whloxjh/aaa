@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "心明明是我的，装的却慢慢是你",
+"note_ch": "如果有一天我对你说，我想你了，不是那一刻我想你了，而是那一刻我憋不住了。",
 # 金句英文
-"note_en": "The heart is obviously my, but slowly is you."
+"note_en": "If one day I say to you, I miss you, not at that moment I miss you, but at that moment I can't hold back."
 }
