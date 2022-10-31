@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我想见你 穿过教堂和人海拥抱你。",
+"note_ch": "我今天又想你了，所以我拜托风替我见我想见的那个人。",
 # 金句英文
-"note_en": "I want to see you hug you through the church and the crowd."
+"note_en": "I missed you again today, so I asked the wind to meet the man I wanted to see."
 }
