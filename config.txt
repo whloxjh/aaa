@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我今天又想你了，所以我拜托风替我见我想见的那个人。",
+"note_ch": "夜空下的莹莹星光，写满了我对你的爱恋。",
 # 金句英文
-"note_en": "I missed you again today, so I asked the wind to meet the man I wanted to see."
+"note_en": "The sky under the Yingying starlight, full of my love for you."
 }
