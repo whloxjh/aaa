@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我最近体重上升了，没有偷吃东西，只是偷偷地把你放在心上了。",
+"note_ch": "本以为世间疾苦，但却不曾想，你是彩蛋，而且是最甜的那一个。",
 # 金句英文
-"note_en": "I recently put on weight, not to steal food, just secretly put you in mind."
+"note_en": "Thought the world suffering, but never thought, you are the egg, and is the sweetest one."
 }
