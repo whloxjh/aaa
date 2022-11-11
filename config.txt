@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你的过去我来不及参与，你的未来我奉陪到底。",
+"note_ch": "你有脾气算什么，我有耐心。",
 # 金句英文
-"note_en": "Your past I too late to participate in, your future I will go to the end."
+"note_en": "You have a temper. But,i have patience."
 }
