@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我每一天都在发现不同的你，对你的新鲜感永远不会消失。",
+"note_ch": "春赏百花冬观雪，醒亦念卿，梦亦念卿。",
 # 金句英文
-"note_en": "I find a different you every day, and the novelty of you will never wear off."
+"note_en": "Spring flowers winter snow, wake up also read Qing, dream also read qing."
 }
