@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我本来想把最好的礼物送给你的，结果那个快递员死活不把我寄给你。",
+"note_ch": "心中有个满分的人，所以看谁都差点意思。",
 # 金句英文
-"note_en": "I wanted to give you the best present, but the Courier wouldn't send me to you."
+"note_en": "There is a full mark in the heart of the people, so see who are almost meaning."
 }
