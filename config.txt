@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "心中有个满分的人，所以看谁都差点意思。",
+"note_ch": "心脏不在正中所以我喜欢对你偏心.",
 # 金句英文
-"note_en": "There is a full mark in the heart of the people, so see who are almost meaning."
+"note_en": "Heart is not in the middle so I like to play favorites with you."
 }
