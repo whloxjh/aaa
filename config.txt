@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我们坐在岩石上看海。",
+"note_ch": "晚上的月亮是我抛的硬币，两面都是梦见你。",
 # 金句英文
-"note_en": "We sat on the rocks and looked at the sea."
+"note_en": "Moon at night is my coin, both sides are dreaming of you."
 }
