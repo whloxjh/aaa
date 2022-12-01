@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-12-25",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "我会一点一点去实现对你的承诺。",
+"note_ch": "晚安是爱你的续篇。",
 # 金句英文
-"note_en": "I will fulfill my promise to you little by little."
+"note_en": "Good night is a continuation of loving you."
 }
